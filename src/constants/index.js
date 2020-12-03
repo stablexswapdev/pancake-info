@@ -1,4 +1,4 @@
-export const FACTORY_ADDRESS = '0xBCfCcbde45cE874adCB698cC183deBcF17952812'
+export const FACTORY_ADDRESS = '0x918d7e714243F7d9d463C37e106235dCde294ffC'
 
 export const BUNDLE_ID = '1'
 
@@ -12,7 +12,7 @@ export const timeframeOptions = {
 
 // token list urls to fetch tokens from - use for warnings on tokens and pairs
 export const SUPPORTED_LIST_URLS__NO_ENS = [
-  'https://raw.githubusercontent.com/pancakeswap/pancake-swap-interface/master/src/constants/token/pancakeswap.json'
+  'https://raw.githubusercontent.com/stablexlabs/stablex-swap-interface/master/src/constants/token/pancakeswap.json'
 ]
 
 // hide from overview list
